@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eilaexiep.jparenas.com/sitemap.xml
